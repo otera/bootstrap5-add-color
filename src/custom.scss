@@ -1,0 +1,6 @@
+// カラーの追加
+$theme-colors: (
+  "custom-primary": rgb(65, 125, 175),
+  "orange": orange,
+);
+@import "../node_modules/bootstrap/scss/bootstrap";
